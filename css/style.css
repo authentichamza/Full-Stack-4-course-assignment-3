@@ -3,7 +3,7 @@ body {
 	color: #000;
 }
 
-.navbar-brand h2{
+.navbar-brand h3{
 	color: #000;
 	padding-left: 20px;
 }
@@ -16,7 +16,6 @@ a:hover a:focus{
 	border: 1px solid black;
 	color: #000;
 	display: block;
-	size: 100%;
 }
 
 header .container{
