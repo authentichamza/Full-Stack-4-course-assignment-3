@@ -12,18 +12,13 @@ a:hover a:focus{
 	color: #000;
 }
 .navbar-collapse a{
-	text-align: center;
 	background-color: white;
 	border: 1px solid black;
 	color: #000;
 	display: block;
 	size: 100%;
 }
-ul{
-	display: block;
-	list-style-type: none;
-	
-}
+
 header .container{
 	display: block;
 	border: 1px solid black;
